@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "message": "wiadomosc zwrotna 1"
+    },
+    {
+      "id": 2,
+      "message": "wiadomosc zwrotna dluzsza 2"
+    },
+    {
+      "id": 3,
+      "message": "dluzsza wiadomosc zwrotna 3"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
