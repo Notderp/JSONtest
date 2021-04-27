@@ -8,8 +8,32 @@
           "oname": "Chcę zlecić wykonanie"
       },
                 {
-                "onr": 2,
-                "oname": "cos innego"
+          "onr": 2,
+          "oname": "Szukam konkretnego pracownika"
+      },
+                {
+          "onr": 3,
+          "oname": "Szukam sprzętu do badań "
+      },
+                {
+          "onr": 4,
+          "oname": "Szukam partnera (uczelni) do projektu"
+      },
+                {
+          "onr": 5,
+          "oname": "Zapraszam Politechnikę do udziału w przetargu/zapytania o cenę"
+      },
+                {
+          "onr": 6,
+          "oname": "Chcę wynająć salę/zorganizować wydarzenie na Politechnice"
+      },
+                {
+          "onr": 7,
+          "oname": "Mam ofertę pracy"
+      },
+                {
+                "onr": 8,
+                "oname": "inne"
                 }]
     },
     {
@@ -20,13 +44,114 @@
           "oname": "Wykonanie badania"
       },
                 {
+          "onr": 10,
+          "oname": "Wykonanie ekspertyzy"
+      },
+                {
+          "onr": 11,
+          "oname": "Wykonanie opinii o innowacyjności"
+      },
+                {
+          "onr": 12,
+          "oname": "Wykonanie opinii sądowej"
+      },
+                {
+          "onr": 13,
+          "oname": "Wykonanie wzorcowania/kalibracji urządzenia"
+      },
+                {
                 "onr": 0,
                 "oname": "powrot"
                 }]
     },
     {
-      "id": 3,
-      "message": "dluzsza wiadomosc zwrotna 3"
+      "id": 2,
+      "message": "Odpowiedz na poszukiwanie konkretnego pracownika",
+      "opcje": [
+                {
+                "onr": 0,
+                "oname": "powrot"
+                }]
+    },
+          "id": 3,
+      "message": "Czy chciałbyś wynająć laboratorium, czy poszukujesz konkretnego urządzenia?",
+      "opcje": [
+    {
+                "onr": 14,
+                "oname": "Chcę wynając laboratorium"
+                },
+    {
+                "onr": 15,
+                "oname": "Szukam konkretnego urządzenia"
+                },
+                {
+                "onr": 0,
+                "oname": "powrot"
+                }]
+    },
+      "id": 4,
+      "message": "Odpowiedz na poszukiwanie partnera do projektu",
+      "opcje": [
+                {
+                "onr": 0,
+                "oname": "powrot"
+                }]
+    },
+      "id": 5,
+      "message": "Odpowiedz na zaproszenie do przetargu",
+      "opcje": [
+                {
+                "onr": 0,
+                "oname": "powrot"
+                }]
+    },
+      "id": 6,
+      "message": "Odpowiedz na zorganizowanie wydarzenia",
+      "opcje": [
+                {
+                "onr": 0,
+                "oname": "powrot"
+                }]
+    },
+      "id": 7,
+      "message": "Odpowiedz na oferte pracy (z linkiem)",
+      "opcje": [
+                {
+                "onr": 0,
+                "oname": "powrot"
+                }]
+    },
+      "id": 8,
+      "message": "Wybierz jedna poniższych opcji:",
+      "opcje": [
+                {
+                "onr": 16,
+                "oname": "rozliczenie finansowe z PWr"
+                },
+                        {
+                "onr": 17,
+                "oname": "Doktorat wdrożeniowy"
+                },
+                        {
+                "onr": 18,
+                "oname": "prowadzę badanie (ankieta)"
+                },
+                        {
+                "onr": 19,
+                "oname": "patronat wydarzenia"
+                },
+                        {
+                "onr": 20,
+                "oname": "biblioteka"
+                },
+                        {
+                "onr": 21,
+                "oname": "inne"
+                },
+                      {
+                "onr": 0,
+                "oname": "powrot"
+                }]
     }
   ],
   "profile": {
