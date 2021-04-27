@@ -73,6 +73,7 @@
                 "oname": "powrot"
                 }]
     },
+    {
           "id": 3,
       "message": "Czy chciałbyś wynająć laboratorium, czy poszukujesz konkretnego urządzenia?",
       "opcje": [
@@ -89,6 +90,7 @@
                 "oname": "powrot"
                 }]
     },
+    {
       "id": 4,
       "message": "Odpowiedz na poszukiwanie partnera do projektu",
       "opcje": [
@@ -97,6 +99,7 @@
                 "oname": "powrot"
                 }]
     },
+    {
       "id": 5,
       "message": "Odpowiedz na zaproszenie do przetargu",
       "opcje": [
@@ -105,6 +108,7 @@
                 "oname": "powrot"
                 }]
     },
+    {
       "id": 6,
       "message": "Odpowiedz na zorganizowanie wydarzenia",
       "opcje": [
@@ -113,6 +117,7 @@
                 "oname": "powrot"
                 }]
     },
+    {
       "id": 7,
       "message": "Odpowiedz na oferte pracy (z linkiem)",
       "opcje": [
@@ -121,6 +126,7 @@
                 "oname": "powrot"
                 }]
     },
+    {
       "id": 8,
       "message": "Wybierz jedna poniższych opcji:",
       "opcje": [
