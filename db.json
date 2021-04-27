@@ -1,8 +1,16 @@
 {
   "posts": [
     {
-      "id": 1,
-      "message": "Zwrotna wiadomosc 1111test"
+      "id": 0,
+      "message": "W czym mogę Ci pomóc? Napisz wiadomość lub wybierz jedną z opcji poniżej:",
+      "opcje": [{
+          "onr": 1,
+          "oname": "Chcę zlecić wykonanie"
+      },
+                {
+                "onr": 0,
+                "oname": "powrot"
+                }]
     },
     {
       "id": 2,
