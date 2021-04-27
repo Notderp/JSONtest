@@ -8,13 +8,21 @@
           "oname": "Chcę zlecić wykonanie"
       },
                 {
-                "onr": 0,
-                "oname": "powrot"
+                "onr": 2,
+                "oname": "cos innego"
                 }]
     },
     {
-      "id": 2,
-      "message": "wiadomosc zwrotna dluzsza 2"
+      "id": 1,
+      "message": "Jakie wykonanie chciałbyś zlecić?:",
+      "opcje": [{
+          "onr": 9,
+          "oname": "Wykonanie badania"
+      },
+                {
+                "onr": 0,
+                "oname": "powrot"
+                }]
     },
     {
       "id": 3,
